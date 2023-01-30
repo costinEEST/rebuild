@@ -1,2 +1,1 @@
-# rebuild
-Make your own version of X
+- https://rss.app with https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript
