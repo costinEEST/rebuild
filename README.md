@@ -3,3 +3,4 @@
 - https://youtu.be/507WU47x8HI + https://github.com/leafac/kill-the-newsletter
 - https://maximorlov.com/awesome-apis-for-nodejs-projects
 - https://chrome.google.com/webstore/detail/wistia-video-downloader/acbiaofoeebeinacmcknopaikmecdehl
+- https://github.com/GorvGoyl/Clone-Wars
