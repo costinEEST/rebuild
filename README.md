@@ -4,3 +4,4 @@
 - https://maximorlov.com/awesome-apis-for-nodejs-projects
 - https://chrome.google.com/webstore/detail/wistia-video-downloader/acbiaofoeebeinacmcknopaikmecdehl
 - https://github.com/GorvGoyl/Clone-Wars
+- [Built your own AirTag](https://github.com/seemoo-lab/openhaystack)
