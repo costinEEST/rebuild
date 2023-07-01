@@ -7,3 +7,4 @@
 - [Built your own AirTag](https://github.com/seemoo-lab/openhaystack)
 - https://twitter.com/kepano/status/1670877019125739520 + https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb
 - https://github.com/stars/timqian/lists/rss-reader
+- https://github.com/iamcarrico/creating-your-own-cdn
